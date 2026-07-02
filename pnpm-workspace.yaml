@@ -1,0 +1,8 @@
+packages:
+  - "."
+onlyBuiltDependencies:
+  - "@clerk/shared"
+  - "lzo"
+allowBuilds:
+  "@clerk/shared": true
+  "lzo": true
